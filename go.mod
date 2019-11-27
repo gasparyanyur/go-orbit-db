@@ -1,4 +1,4 @@
-module berty.tech/go-orbit-db
+module gasparyanyur/go-orbit-db
 
 go 1.12
 
