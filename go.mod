@@ -1,4 +1,4 @@
-module gasparyanyur/go-orbit-db
+module github.com/gasparyanyur/go-orbit-db
 
 go 1.12
 
