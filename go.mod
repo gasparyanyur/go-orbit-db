@@ -23,5 +23,3 @@ require (
 	go.uber.org/zap v1.10.0
 	google.golang.org/appengine v1.4.0 // indirect
 )
-
-replace github.com/dgraph-io/badger => github.com/dgraph-io/badger v2.0.0
