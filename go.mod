@@ -24,4 +24,4 @@ require (
 	google.golang.org/appengine v1.4.0 // indirect
 )
 
-replace github.com/dgraph-io/badger => github.com/dgraph-io/badger v0.0.0-20190809121831-9d7b751e85c9
+replace github.com/dgraph-io/badger => github.com/dgraph-io/badger v2.0.0
