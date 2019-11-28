@@ -3,7 +3,7 @@ module gasparyanyur/go-orbit-db
 go 1.12
 
 require (
-	gasparyanyur/go-ipfs-log v0.0.0-20191118100004-2fb04713cace
+	github.com/gasparyanyur/go-ipfs-log v0.0.0-20191118100004-2fb04713cace
 	github.com/ipfs/go-cid v0.0.2
 	github.com/ipfs/go-datastore v0.0.5
 	github.com/ipfs/go-ds-leveldb v0.0.2
