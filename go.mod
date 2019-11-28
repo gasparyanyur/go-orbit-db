@@ -25,3 +25,4 @@ require (
 )
 
 replace github.com/dgraph-io/badger => github.com/dgraph-io/badger/v2 v2.0.0-rc1
+replace berty.tech/go-ipfs-log => github.com/gasparyanyur/go-orbit-db master
