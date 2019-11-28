@@ -3,7 +3,6 @@ module github.com/gasparyanyur/go-orbit-db
 go 1.12
 
 require (
-	berty.tech/go-ipfs-log v0.0.0-20191118100004-2fb04713cace
 	github.com/ipfs/go-cid v0.0.2
 	github.com/ipfs/go-datastore v0.0.5
 	github.com/ipfs/go-ds-leveldb v0.0.2
@@ -25,4 +24,4 @@ require (
 )
 
 replace github.com/dgraph-io/badger => github.com/dgraph-io/badger/v2 v2.0.0-rc1
-replace berty.tech/go-ipfs-log => github.com/gasparyanyur/go-orbit-db v0.0.2
+replace berty.tech/go-ipfs-log => github.com/gasparyanyur/go-orbit-db v0.0.3
