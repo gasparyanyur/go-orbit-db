@@ -1,4 +1,4 @@
-module berty.tech/go-orbit-db
+module github.com/berty.tech/go-orbit-db
 
 go 1.12
 
@@ -25,5 +25,3 @@ require (
 )
 
 replace github.com/dgraph-io/badger => github.com/dgraph-io/badger/v2 v2.0.0-rc1
-
-replace berty.tech/go-orbit-db => github.com/gasparyanyur/go-orbit-db v0.0.2-0.20191128100535-c7e3428dda48
