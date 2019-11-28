@@ -5,7 +5,7 @@ go 1.12
 require (
 	berty.tech/go-ipfs-log v0.0.0-20191118100004-2fb04713cace
 	berty.tech/go-orbit-db v0.0.1
-	github.com/gasparyanyur/go-ipfs-log v0.0.0-20191128090615-fde9ec98fe13 // indirect
+	github.com/gasparyanyur/go-ipfs-log v0.0.1
 	github.com/ipfs/go-cid v0.0.2
 	github.com/ipfs/go-datastore v0.0.5
 	github.com/ipfs/go-ds-leveldb v0.0.2
@@ -24,4 +24,4 @@ require (
 	google.golang.org/appengine v1.4.0 // indirect
 )
 
-replace github.com/dgraph-io/badger => github.com/dgraph-io/badger v0.0.0-20190809121831-9d7b751e85c9
+replace github.com/dgraph-io/badger => github.com/dgraph-io/badger/v2 v2.0.0-rc1
